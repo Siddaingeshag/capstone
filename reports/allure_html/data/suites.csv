@@ -1,0 +1,11 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+Tests the explicit wait and alert handling on demoblaze.com.
+- Navigates to a product page.
+- Clicks 'Add to cart' (waits for the button).
+- Waits for and accepts the confirmation alert.
+- Verifies the alert text.
+","4819","test_add_to_cart_and_handle_alert","tests","Mon Oct 20 18:21:11 IST 2025","passed","Mon Oct 20 18:21:16 IST 2025","","demo_test","",""
+"
+Test case for logging in and then logging out of Sauce Demo.
+","2619","test_login_and_logout","tests","Mon Oct 20 18:21:20 IST 2025","passed","Mon Oct 20 18:21:23 IST 2025","","test_login_logout","",""

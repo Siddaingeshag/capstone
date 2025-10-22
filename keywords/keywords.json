@@ -1,0 +1,8 @@
+{
+  "open_browser": "https://www.saucedemo.com/",
+  "enter_username": "user-name",
+  "enter_password": "password",
+  "click_login": "login-button",
+  "verify_login": "inventory_list",
+  "verify_error": "[data-test='error']"
+}

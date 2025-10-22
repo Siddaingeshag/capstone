@@ -1,0 +1,4 @@
+selenium
+pytest
+openpyxl          # for Excel
+webdriver-manager
