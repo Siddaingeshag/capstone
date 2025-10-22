@@ -1,0 +1,2 @@
+
+Successfully handled alert with text: 'Product added'
