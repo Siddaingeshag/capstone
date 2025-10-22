@@ -1,32 +1,32 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
 "
+    Data-Driven Test: Runs login test for each row in login_data.csv
+    ","1292","test_login_data_driven[test_data5]","tests","2025-10-22","passed","2025-10-22","","test_data_driven","",""
+"
+    Data-Driven Test: Runs login test for each row in login_data.csv
+    ","1412","test_login_data_driven[test_data4]","tests","2025-10-22","passed","2025-10-22","","test_data_driven","",""
+"","562","test_login_and_add_product_to_cart","tests","2025-10-22","passed","2025-10-22","TestModularDriven","test_modular_driven","",""
+"
+    Test that logs into SauceDemo and performs scroll operations
+    on the inventory (product listing) page.
+    ","5866","test_scroll_up_down_inventory_page","tests","2025-10-22","passed","2025-10-22","","scroll_test","",""
+"","1181","test_login_keyword_driven","tests","2025-10-22","passed","2025-10-22","","test_keyword_driven","",""
+"
+    Data-Driven Test: Runs login test for each row in login_data.csv
+    ","1315","test_login_data_driven[test_data2]","tests","2025-10-22","passed","2025-10-22","","test_data_driven","",""
+"
+    Data-Driven Test: Runs login test for each row in login_data.csv
+    ","1265","test_login_data_driven[test_data0]","tests","2025-10-22","passed","2025-10-22","","test_data_driven","",""
+"
     Tests the explicit wait and alert handling on demoblaze.com.
     - Navigates to a product page.
     - Clicks 'Add to cart' (waits for the button).
     - Waits for and accepts the confirmation alert.
     - Verifies the alert text.
-    ","2258","test_add_to_cart_and_handle_alert","tests","2025-10-22","passed","2025-10-22","","demo_test","",""
+    ","1484","test_add_to_cart_and_handle_alert","tests","2025-10-22","passed","2025-10-22","","demo_test","",""
 "
     Data-Driven Test: Runs login test for each row in login_data.csv
-    ","1158","test_login_data_driven[test_data1]","tests","2025-10-22","passed","2025-10-22","","test_data_driven","",""
-"","3277","test_login_keyword_driven","tests","2025-10-22","passed","2025-10-22","","test_keyword_driven","",""
+    ","6459","test_login_data_driven[test_data3]","tests","2025-10-22","passed","2025-10-22","","test_data_driven","",""
 "
     Data-Driven Test: Runs login test for each row in login_data.csv
-    ","1182","test_login_data_driven[test_data2]","tests","2025-10-22","passed","2025-10-22","","test_data_driven","",""
-"
-    Test that logs into SauceDemo and performs scroll operations
-    on the inventory (product listing) page.
-    ","6669","test_scroll_up_down_inventory_page","tests","2025-10-22","passed","2025-10-22","","scroll_test","",""
-"
-    Data-Driven Test: Runs login test for each row in login_data.csv
-    ","1131","test_login_data_driven[test_data0]","tests","2025-10-22","passed","2025-10-22","","test_data_driven","",""
-"
-    Data-Driven Test: Runs login test for each row in login_data.csv
-    ","6197","test_login_data_driven[test_data3]","tests","2025-10-22","passed","2025-10-22","","test_data_driven","",""
-"
-    Data-Driven Test: Runs login test for each row in login_data.csv
-    ","1147","test_login_data_driven[test_data4]","tests","2025-10-22","passed","2025-10-22","","test_data_driven","",""
-"
-    Data-Driven Test: Runs login test for each row in login_data.csv
-    ","1176","test_login_data_driven[test_data5]","tests","2025-10-22","passed","2025-10-22","","test_data_driven","",""
-"","897","test_login_and_add_product_to_cart","tests","2025-10-22","passed","2025-10-22","TestModularDriven","test_modular_driven","",""
+    ","1431","test_login_data_driven[test_data1]","tests","2025-10-22","passed","2025-10-22","","test_data_driven","",""
