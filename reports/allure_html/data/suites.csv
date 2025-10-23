@@ -1,21 +1,20 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
 "
 Data-Driven Test: Runs login test for each row in login_data.csv
-","2647","test_login_data_driven[test_data1]","tests","Tue Oct 21 18:54:59 IST 2025","passed","Tue Oct 21 18:55:02 IST 2025","","test_data_driven","",""
-"
-Test case for logging in and then logging out of Sauce Demo.
-","6289","test_login_and_logout","tests","Tue Oct 21 18:56:10 IST 2025","passed","Tue Oct 21 18:56:16 IST 2025","","test_login_logout","",""
-"","3386","test_login_and_add_product_to_cart","tests","Tue Oct 21 18:56:32 IST 2025","passed","Tue Oct 21 18:56:35 IST 2025","TestModularDriven","test_modular_driven","",""
-"
-Data-Driven Test: Runs login test for each row in login_data.csv
 ","4480","test_login_data_driven[test_data5]","tests","Tue Oct 21 18:55:43 IST 2025","passed","Tue Oct 21 18:55:48 IST 2025","","test_data_driven","",""
 "
 Data-Driven Test: Runs login test for each row in login_data.csv
 ","3539","test_login_data_driven[test_data4]","tests","Tue Oct 21 18:55:31 IST 2025","passed","Tue Oct 21 18:55:35 IST 2025","","test_data_driven","",""
+"","3386","test_login_and_add_product_to_cart","tests","Tue Oct 21 18:56:32 IST 2025","passed","Tue Oct 21 18:56:35 IST 2025","TestModularDriven","test_modular_driven","",""
+"
+Data-Driven Test: Runs login test for each row in login_data.csv
+","8171","test_login_data_driven[test_data3]","tests","Tue Oct 21 18:55:16 IST 2025","passed","Tue Oct 21 18:55:24 IST 2025","","test_data_driven","",""
+"
+Test case for logging in and then logging out of Sauce Demo.
+","6289","test_login_and_logout","tests","Tue Oct 21 18:56:10 IST 2025","passed","Tue Oct 21 18:56:16 IST 2025","","test_login_logout","",""
 "
 Data-Driven Test: Runs login test for each row in login_data.csv
 ","2715","test_login_data_driven[test_data2]","tests","Tue Oct 21 18:55:08 IST 2025","passed","Tue Oct 21 18:55:10 IST 2025","","test_data_driven","",""
-"","4177","test_login_keyword_driven","tests","Tue Oct 21 18:55:56 IST 2025","passed","Tue Oct 21 18:56:00 IST 2025","","test_keyword_driven","",""
 "
 Tests the explicit wait and alert handling on demoblaze.com.
 - Navigates to a product page.
@@ -23,9 +22,10 @@ Tests the explicit wait and alert handling on demoblaze.com.
 - Waits for and accepts the confirmation alert.
 - Verifies the alert text.
 ","4122","test_add_to_cart_and_handle_alert","tests","Tue Oct 21 18:54:43 IST 2025","passed","Tue Oct 21 18:54:47 IST 2025","","demo_test","",""
+"","4177","test_login_keyword_driven","tests","Tue Oct 21 18:55:56 IST 2025","passed","Tue Oct 21 18:56:00 IST 2025","","test_keyword_driven","",""
 "
 Data-Driven Test: Runs login test for each row in login_data.csv
-","8171","test_login_data_driven[test_data3]","tests","Tue Oct 21 18:55:16 IST 2025","passed","Tue Oct 21 18:55:24 IST 2025","","test_data_driven","",""
+","2647","test_login_data_driven[test_data1]","tests","Tue Oct 21 18:54:59 IST 2025","passed","Tue Oct 21 18:55:02 IST 2025","","test_data_driven","",""
 "
 Data-Driven Test: Runs login test for each row in login_data.csv
 ","2475","test_login_data_driven[test_data0]","tests","Tue Oct 21 18:54:52 IST 2025","passed","Tue Oct 21 18:54:54 IST 2025","","test_data_driven","",""
